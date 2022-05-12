@@ -6,7 +6,7 @@ Ok Johnny. That's cool but, what is this even for?
 Glad you asked! This is for:
 Shopify Frontend Intern Dev Challenge *Insert epic background music here*
 
-Link to test out: 
+Link to test out: https://tinyurl.com/johnny-gpt3
 
 Heads up...
 
