@@ -10,4 +10,4 @@ Link to test out:
 
 Heads up...
 
-"apiKey" var should be assigned to apikey in "environment.ts" file  :)
+"apiKey" var should be assigned to OpenAI apikey in "environment.ts" file  :)
