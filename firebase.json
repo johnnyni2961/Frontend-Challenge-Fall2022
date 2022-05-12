@@ -1,0 +1,16 @@
+{
+  "hosting": {
+    "public": "dist/fun-with-gpt3",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
